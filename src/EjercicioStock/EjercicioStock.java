@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class EjercicioStock {
 
   public static void main (String[] args) {
-    int demanda = 120;
+    final int demanda = 120;
     Scanner sc = new Scanner(System.in);
 
     System.out.println("Ingrese la cantidad de stock");

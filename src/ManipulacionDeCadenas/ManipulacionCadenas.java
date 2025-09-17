@@ -19,7 +19,7 @@ public class ManipulacionCadenas {
             .toUpperCase(); //primer posicion pasa a mayuscula
         String restoPalabra = palabras[i].substring(1); // tomo de la posicion 1 en adelante
         sb.append(primeraLetra).append(restoPalabra); //concatena los strings
-        if (i < palabras.length - 1) { // si no estoy en la última palabra
+        if (i < palabras.length - 1) { // si no estoy en la última palabra, es decir arreglo
           sb.append(" ");
         }
       }

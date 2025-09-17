@@ -1,13 +1,4 @@
-package EjercicioIntegradorClase2;/*
-1. Necesita saber el costo total de un pedido sumando el precio
-unitario por la cantidad de productos.
-2. Requerimos solicitar datos al cliente para personalizar la experiencia
-3. Debemos verificar si tenemos suficiente stock para cubrir una demanda específica.
-4. Hay que procesar una lista de productos pendientes de revisión.
-Primero intentaremos una solución con while y luego notaremos que for
-podría ser más elegante
- */
-
+package EjercicioIntegradorClase2;
 import java.util.Scanner;
 
 public class EjercicioIntegradorClase2 {
