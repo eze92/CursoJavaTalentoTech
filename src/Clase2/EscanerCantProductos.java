@@ -1,4 +1,4 @@
-package EscanerCantProductos;
+package Clase2;
 
 import java.util.Scanner;
 

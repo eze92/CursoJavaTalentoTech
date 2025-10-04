@@ -1,4 +1,4 @@
-package CombinacionCadenayLista;
+package Clase3_Cadenas_Listas;
 
 
 import java.util.ArrayList;

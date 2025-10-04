@@ -1,4 +1,4 @@
-package ManipulacionDeCadenas;
+package Clase3_Cadenas_Listas;
 
 /*
 Dada una cadena " té CHAi ", formateala para que quede "Té Chai".

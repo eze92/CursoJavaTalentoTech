@@ -1,4 +1,4 @@
-package EjercicioIntegradorClase2;
+package Clase2;
 import java.util.Scanner;
 
 public class EjercicioIntegradorClase2 {

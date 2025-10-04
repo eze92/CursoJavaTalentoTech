@@ -1,4 +1,4 @@
-package Cliente;
+package Clase5_Objetos;
 
 public class Cliente {
 /*

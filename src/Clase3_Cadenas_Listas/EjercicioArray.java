@@ -1,4 +1,4 @@
-package EjercicioArray;
+package Clase3_Cadenas_Listas;
 
 /*
 Creá un array de 5 productos.

@@ -1,4 +1,4 @@
-package EjercicioStock;/*
+package Clase2;/*
 Contexto: Silvia pide verificar si el stock actual del Café Premium alcanza
 para cubrir una demanda de 120 unidades. Si el stock es suficiente, avisamos
 que podemos procesar el pedido; si no, informamos que no alcanza.

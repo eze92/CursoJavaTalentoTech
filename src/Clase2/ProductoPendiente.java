@@ -1,4 +1,4 @@
-package ProductoPendiente;
+package Clase2;
 
 public class ProductoPendiente {
   public static void main (String[] args){

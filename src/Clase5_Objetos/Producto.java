@@ -1,4 +1,4 @@
-package Producto;
+package Clase5_Objetos;
 
 public class Producto {
 /*
